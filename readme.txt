@@ -1,0 +1,1 @@
+maven http://47.100.49.91:8081/repository/maven-public
